@@ -1,3 +1,13 @@
+# Please Read Before Running 
+# Intall globaly json-server and run db.json
+ ```
+ npm install -g json-server
+ ```
+ 
+ ```
+ json-server db.json
+ ```
+
 # fake-user
 
 ## Project setup
