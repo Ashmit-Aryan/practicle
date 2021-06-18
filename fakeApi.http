@@ -1,0 +1,11 @@
+DELETE http://localhost:3000/profile/1
+Accept: application/json
+
+
+###
+GET http://localhost:3000/
+Accept: application/json
+
+
+
+###
